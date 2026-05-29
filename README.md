@@ -64,11 +64,9 @@ Observability  OpenTelemetry  ·  Structured Logging  ·  Load Testing  ·  Prof
 
 <div align="center">
 
-![Tex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenecplusultra&show_icons=true&theme=transparent&hide_border=true&title_color=ff014f&icon_color=ff014f&text_color=c4cfde&bg_color=0d0f14)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenecplusultra&layout=compact&theme=transparent&hide_border=true&title_color=ff014f&text_color=c4cfde&bg_color=0d0f14)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenecplusultra&theme=transparent&hide_border=true&ring=ff014f&fire=ff014f&currStreakLabel=ff014f&sideLabels=c4cfde&dates=6b7280&background=0d0f14)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lenecplusultra&color=ff014f&style=flat-square&label=Profile+Views)
 
 </div>
 
