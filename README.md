@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   TEX YONZO  ·  SOFTWARE ENGINEER                           ║
-║   Distributed Systems · Cloud Platforms · AI Applications   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                                                ╔══════════════════════════════════════════════════════════════╗
+                                                ║                                                              ║
+                                                ║   TEX YONZO  ·  SOFTWARE ENGINEER                           ║
+                                                ║   Distributed Systems · Cloud Platforms · AI Applications   ║
+                                                ║                                                              ║
+                                                ╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lenecplusultra.github.io-ff014f?style=flat-square&logo=github&logoColor=white)](https://lenecplusultra.github.io/TexPortfolio/)
