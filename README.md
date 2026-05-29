@@ -41,7 +41,7 @@ tex = {
 | [**event-driven-delivery-platform**](https://github.com/Lenecplusultra/event-driven-delivery-platform) | `Python` `Kafka` `FastAPI` `Kubernetes` | Multi-service order fulfillment backend with Saga orchestration, DLQ retry, Redis caching, OpenTelemetry tracing |
 | [**opspilot-ai**](https://github.com/Lenecplusultra/opspilot-ai) | `FastAPI` `LangChain` `OpenAI` `React` | MCP-powered engineering assistant — natural language ops with RBAC, approval gates, and immutable audit logging |
 | [**real-time-ads-streaming-pipeline**](https://github.com/Lenecplusultra/real-time-ads-streaming-pipeline) | `Kafka` `Spark` `PostgreSQL` `Python` | End-to-end streaming pipeline ingesting ad click events → Spark Structured Streaming → live analytics dashboard |
-| [**anbelo-retail-intelligence**](https://github.com/Lenecplusultra/anbelo-retail-intelligence) | `Java` `Spring Boot` `AWS` `React` | Cloud-native analytics platform on SAGE ERP — multi-store sales, inventory alerts, executive dashboards |
+| [**anbelo-retail-intelligence**](https://github.com/Lenecplusultra/arip) | `Java` `Spring Boot` `AWS` `React` | Cloud-native analytics platform on SAGE ERP — multi-store sales, inventory alerts, executive dashboards |
 | [**ai-doc-assistant**](https://github.com/Lenecplusultra/ai-doc-assistant) | `FastAPI` `LangChain` `GPT-4` `React` | ChatGPT-style semantic search over 200+ internal docs with real-time WebSocket streaming |
 
 ---
